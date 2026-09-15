@@ -1,7 +1,7 @@
 # Olá, eu sou Derik Petiz 👋
 
 ### 📊 Data Scientist & AI Specialist | Commercial Intelligence
-Especialista em transformar dados complexos em soluções estratégicas de negócio, combinando mais de 20 anos de bagagem em gestão comercial e relacionamento corporativo com Ciência de Dados, Inteligência Artificial e Machine Learning.
+Especialista em transformar dados complexos em soluções estratégicas de negócio, combinando mais de 20 anos de bagagem em gestão comercial e relacionamento corporativo, agora também unindo com Ciência de Dados, Inteligência Artificial e Machine Learning.
 
 ---
 
