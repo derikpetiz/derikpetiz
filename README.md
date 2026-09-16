@@ -17,8 +17,6 @@ Especialista em transformar dados complexos em soluções estratégicas de negó
 
 📌 **Projetos em Destaque**
 
----
-
 🚗 **Dashboard de Vendas de Veículos | App Interativo no Render**
 
 Objetivo: Análise exploratória de dados (EDA) de anúncios de vendas de carros nos EUA com métricas de mercado, gráficos dinâmicos e aplicação web interativa hospedada em nuvem.
