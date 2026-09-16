@@ -25,6 +25,7 @@ Tecnologias: Python, Pandas, Plotly Express, Streamlit, Git, Render.
 
 Link: https://github.com/derikpetiz/vehicles_env
 
+
 🛒 **Instacart - Análise Exploratória & Comportamento de Consumo**
 
 Objetivo: Limpeza, tratamento de dados e análise exploratória (EDA) de pedidos para identificar hábitos de compras de clientes.
@@ -33,6 +34,7 @@ Tecnologias: Python, Pandas, Matplotlib, Seaborn.
 
 Link: https://github.com/derikpetiz/Instacart
 
+
 🚕 **Zuber Chicago - Análise de Mobilidade & Teste de Hipóteses**
 
 Objetivo: Análise de dados de transporte em Chicago com consultas SQL e testes de hipóteses estatísticas para avaliar o impacto do clima no tempo de viagem.
@@ -40,6 +42,7 @@ Objetivo: Análise de dados de transporte em Chicago com consultas SQL e testes 
 Tecnologias: Python, SQL, SciPy (Teste T de Student), Pandas.
 
 Link: https://github.com/derikpetiz/Zuber-Chicago
+
 
 🎵 **Se Liga na Música - Análise de Padrões de Streaming**
 
