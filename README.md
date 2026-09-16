@@ -17,7 +17,6 @@ Especialista em transformar dados complexos em soluções estratégicas de negó
 
 📌 **Projetos em Destaque**
 
-
 🚗 **Dashboard de Vendas de Veículos | App Interativo no Render**
 
 Objetivo: Análise exploratória de dados (EDA) de anúncios de vendas de carros nos EUA com métricas de mercado, gráficos dinâmicos e aplicação web interativa hospedada em nuvem.
@@ -25,8 +24,6 @@ Objetivo: Análise exploratória de dados (EDA) de anúncios de vendas de carros
 Tecnologias: Python, Pandas, Plotly Express, Streamlit, Git, Render.
 
 Link: https://github.com/derikpetiz/vehicles_env
-
-
 
 🛒 **Instacart - Análise Exploratória & Comportamento de Consumo**
 
@@ -36,8 +33,6 @@ Tecnologias: Python, Pandas, Matplotlib, Seaborn.
 
 Link: https://github.com/derikpetiz/Instacart
 
-
-
 🚕 **Zuber Chicago - Análise de Mobilidade & Teste de Hipóteses**
 
 Objetivo: Análise de dados de transporte em Chicago com consultas SQL e testes de hipóteses estatísticas para avaliar o impacto do clima no tempo de viagem.
@@ -46,8 +41,6 @@ Tecnologias: Python, SQL, SciPy (Teste T de Student), Pandas.
 
 Link: https://github.com/derikpetiz/Zuber-Chicago
 
-
-
 🎵 **Se Liga na Música - Análise de Padrões de Streaming**
 
 Objetivo: Validação de hipóteses sobre preferências e comportamento de usuários em plataformas de música entre diferentes cidades.
@@ -55,7 +48,6 @@ Objetivo: Validação de hipóteses sobre preferências e comportamento de usuá
 Tecnologias: Python, Pandas, Estatística Descritiva, Teste de Hipóteses.
 
 Link: https://github.com/derikpetiz/Se-liga-na-musica
-
 
 ---
 
