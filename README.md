@@ -23,7 +23,7 @@ Especialista em transformar dados complexos em soluções estratégicas de negó
 
 **Tecnologias:** Python, Pandas, NumPy, SciPy (Teste T), Seaborn, Matplotlib.
 
-**Link:** https://github.com/derikpetiz/telecom-megaline-plan-analysis
+**Link:** [https://github.com/derikpetiz/telecom-megaline-plan-analysis](https://github.com/derikpetiz/Megaline-Telecom)
 
 ---
 
