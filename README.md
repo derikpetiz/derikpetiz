@@ -17,6 +17,16 @@ Especialista em transformar dados complexos em soluções estratégicas de negó
 
 📌 **Projetos em Destaque**
 
+📞 **Megaline Telecom - Análise Estatística & Testes de Hipóteses**
+
+**Objetivo:** Análise exploratória e validação estatística de consumo de dados, minutos e mensagens para determinar qual plano pré-pago gera maior receita e orientar investimentos em publicidade.
+
+**Tecnologias:** Python, Pandas, NumPy, SciPy (Teste T), Seaborn, Matplotlib.
+
+**Link:** https://github.com/derikpetiz/telecom-megaline-plan-analysis
+
+---
+
 🚗 **Dashboard de Vendas de Veículos | App Interativo no Render**
 
 Objetivo: Análise exploratória de dados (EDA) de anúncios de vendas de carros nos EUA com métricas de mercado, gráficos dinâmicos e aplicação web interativa hospedada em nuvem.
