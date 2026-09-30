@@ -44,8 +44,8 @@ Objetivo: Análise exploratória de dados (EDA) de anúncios de vendas de carros
 
 Tecnologias: Python, Pandas, Plotly Express, Streamlit, Git, Render.
 
-Link: https://github.com/derikpetiz/vehicles_env
-**Render: https://vehicles-env-8623.onrender.com/
+**Link:** https://github.com/derikpetiz/vehicles_env
+**[Render]: https://vehicles-env-8623.onrender.com/**
 
 ---
 
@@ -55,7 +55,7 @@ Objetivo: Limpeza, tratamento de dados e análise exploratória (EDA) de pedidos
 
 Tecnologias: Python, Pandas, Matplotlib, Seaborn.
 
-Link: https://github.com/derikpetiz/Instacart
+**Link:** https://github.com/derikpetiz/Instacart
 
 ---
 
@@ -65,7 +65,7 @@ Objetivo: Análise de dados de transporte em Chicago com consultas SQL e testes 
 
 Tecnologias: Python, SQL, SciPy (Teste T de Student), Pandas.
 
-Link: https://github.com/derikpetiz/Zuber-Chicago
+**Link:** https://github.com/derikpetiz/Zuber-Chicago
 
 ---
 
@@ -75,7 +75,7 @@ Objetivo: Validação de hipóteses sobre preferências e comportamento de usuá
 
 Tecnologias: Python, Pandas, Estatística Descritiva, Teste de Hipóteses.
 
-Link: https://github.com/derikpetiz/Se-liga-na-musica
+**Link:** https://github.com/derikpetiz/Se-liga-na-musica
 
 ---
 
