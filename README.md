@@ -24,7 +24,7 @@ Especialista em transformar dados complexos em soluções estratégicas de negó
 **Tecnologias:** Python, Streamlit, Pandas, NumPy, Plotly.
 
 **Link:** [https://github.com/derikpetiz/previsao_eleicao_2026_IA](https://github.com/derikpetiz/previsao_eleicao_2026_IA) 
-**App Online: [Streamlit Cloud](https://previsaoeleicao2026ia-mezbbja6cmagvms6otzebg.streamlit.app/))**
+**App Online: [Streamlit Cloud](https://previsaoeleicao2026ia-mezbbja6cmagvms6otzebg.streamlit.app/)**
 
 ---
 
