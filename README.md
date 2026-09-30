@@ -18,12 +18,12 @@ Especialista em transformar dados complexos em soluções estratégicas de negó
 📌 **Projetos em Destaque**
 
 ### 🗳️ Eleições 2026 — Plataforma Preditiva e Multimetodologia Eleitoral
-> **Sistema de simulação preditiva e análise comparativa de cenários eleitorais no Brasil.**
+**Sistema de simulação preditiva e análise comparativa de cenários eleitorais no Brasil.**
 
-* **Descrição:** Plataforma analítica desenvolvida para cobrir 100% das Unidades da Federação (UFs) e cargos eletivos, integrando três abordagens metodológicas simultâneas (Pesquisa Pura, Modelo Estatístico Paramétrico e Modelo Preditivo com IA baseada em Monte Carlo e penalização por Log-Odds de rejeição).
-* **Diferenciais Tecnológicos:** Visualização interativa avançada com gráficos dinâmicos em Plotly, cálculo de quociente partidário para cargos proporcionais, ajuste demográfico de margem de erro por colégio eleitoral e exportação de relatórios em CSV.
-* **Stack Tecnológica:** `Python`, `Streamlit`, `Pandas`, `NumPy`, `Plotly`.
-* **Links:** 
+**Descrição:** Plataforma analítica desenvolvida para cobrir 100% das Unidades da Federação (UFs) e cargos eletivos, integrando três abordagens metodológicas simultâneas (Pesquisa Pura, Modelo Estatístico Paramétrico e Modelo Preditivo com IA baseada em Monte Carlo e penalização por Log-Odds de rejeição).
+**Diferenciais Tecnológicos:** Visualização interativa avançada com gráficos dinâmicos em Plotly, cálculo de quociente partidário para cargos proporcionais, ajuste demográfico de margem de erro por colégio eleitoral e exportação de relatórios em CSV.
+**Stack Tecnológica:** `Python`, `Streamlit`, `Pandas`, `NumPy`, `Plotly`.
+**Links:** 
   - [🔗 Acessar Aplicação Online (Streamlit Cloud)](https://previsaoeleicao2026ia-mezbbja6cmagvms6otzebg.streamlit.app/)
   - [📂 Repositório do Projeto (GitHub)](https://github.com/derikpetiz/previsao_eleicao_2026_IA)
 
