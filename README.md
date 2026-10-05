@@ -17,6 +17,16 @@ Especialista em transformar dados complexos em soluções estratégicas de negó
 
 📌 **Projetos em Destaque**
 
+🛡️ Foco Técnico: Álgebra Linear — Proteção de Dados & Modelagem Preditiva
+
+**Objetivo:** Desenvolvimento de soluções analíticas para a companhia de seguros "Seguradora Seguro Certo", aplicando kNN para busca de clientes similares e classificação de concessão de benefícios, Regressão Linear para previsão de sinistros e mascaramento de dados por transformação matricial ($XP$) mantendo a precisão dos modelos.
+
+**Tecnologias:** Python, Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn.
+
+**Link:** https://github.com/derikpetiz/Foco_Tecnico_Algebra_Linear
+
+---
+
 🗳️ **Eleições 2026 — Plataforma Preditiva e Multimetodologia Eleitoral**
 
 **Objetivo:** Desenvolvimento de uma plataforma analítica para simulação de cenários eleitorais em 100% das Unidades da Federação, integrando múltiplas abordagens metodológicas (Pesquisa Pura, Modelo Estatístico Paramétrico e IA com simulações estocásticas de Monte Carlo e penalização por rejeição via Log-Odds).
