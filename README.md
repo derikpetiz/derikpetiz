@@ -17,13 +17,23 @@ Especialista em transformar dados complexos em soluções estratégicas de negó
 
 📌 **Projetos em Destaque**
 
-🛡️ Foco Técnico: Álgebra Linear — Proteção de Dados & Modelagem Preditiva
+🎮 **Videogame Market Analytics - Análise Estratégica & Testes de Hipóteses**
 
-**Objetivo:** Desenvolvimento de soluções analíticas para a companhia de seguros "Seguradora Seguro Certo", aplicando kNN para busca de clientes similares e classificação de concessão de benefícios, Regressão Linear para previsão de sinistros e mascaramento de dados por transformação matricial ($XP$) mantendo a precisão dos modelos.
+**Objetivo**: Análise exploratória de dados (EDA), mapeamento de perfis regionais de consumo (NA, EU, JP) e testes de hipóteses estatísticas sobre vendas globais de jogos para fundamentar o planejamento estratégico de vendas de 2017 da loja online Ice.
 
-**Tecnologias:** Python, Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn.
+**Tecnologias**: Python, Pandas, NumPy, SciPy (Teste T), Seaborn, Matplotlib.
 
-**Link:** https://github.com/derikpetiz/Foco_Tecnico_Algebra_Linear
+**Link**: https://github.com/derikpetiz/videogame-market-analytics
+
+---
+
+🛡️ **Foco Técnico: Álgebra Linear — Proteção de Dados & Modelagem Preditiva**
+
+**Objetivo**: Desenvolvimento de soluções analíticas para a companhia de seguros "Seguradora Seguro Certo", aplicando kNN para busca de clientes similares e classificação de concessão de benefícios, Regressão Linear para previsão de sinistros e mascaramento de dados por transformação matricial ($XP$) mantendo a precisão dos modelos.
+
+**Tecnologias**: Python, Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn.
+
+**Link**: https://github.com/derikpetiz/Foco_Tecnico_Algebra_Linear
 
 ---
 
@@ -34,7 +44,7 @@ Especialista em transformar dados complexos em soluções estratégicas de negó
 **Tecnologias:** Python, Streamlit, Pandas, NumPy, Plotly.
 
 **Link:** [https://github.com/derikpetiz/previsao_eleicao_2026_IA](https://github.com/derikpetiz/previsao_eleicao_2026_IA) 
-**App Online: [Streamlit Cloud](https://previsaoeleicao2026ia-mezbbja6cmagvms6otzebg.streamlit.app/)**
+**App Online**: [Streamlit Cloud](https://previsaoeleicao2026ia-mezbbja6cmagvms6otzebg.streamlit.app/)
 
 ---
 
@@ -50,9 +60,9 @@ Especialista em transformar dados complexos em soluções estratégicas de negó
 
 🚗 **Dashboard de Vendas de Veículos | App Interativo no Render**
 
-Objetivo: Análise exploratória de dados (EDA) de anúncios de vendas de carros nos EUA com métricas de mercado, gráficos dinâmicos e aplicação web interativa hospedada em nuvem.
+**Objetivo**: Análise exploratória de dados (EDA) de anúncios de vendas de carros nos EUA com métricas de mercado, gráficos dinâmicos e aplicação web interativa hospedada em nuvem.
 
-Tecnologias: Python, Pandas, Plotly Express, Streamlit, Git, Render.
+**Tecnologias**: Python, Pandas, Plotly Express, Streamlit, Git, Render.
 
 **Link:** https://github.com/derikpetiz/vehicles_env
 **Render: https://vehicles-env-8623.onrender.com/**
@@ -61,9 +71,9 @@ Tecnologias: Python, Pandas, Plotly Express, Streamlit, Git, Render.
 
 🛒 **Instacart - Análise Exploratória & Comportamento de Consumo**
 
-Objetivo: Limpeza, tratamento de dados e análise exploratória (EDA) de pedidos para identificar hábitos de compras de clientes.
+**Objetivo**: Limpeza, tratamento de dados e análise exploratória (EDA) de pedidos para identificar hábitos de compras de clientes.
 
-Tecnologias: Python, Pandas, Matplotlib, Seaborn.
+**Tecnologias**: Python, Pandas, Matplotlib, Seaborn.
 
 **Link:** https://github.com/derikpetiz/Instacart
 
@@ -71,9 +81,9 @@ Tecnologias: Python, Pandas, Matplotlib, Seaborn.
 
 🚕 **Zuber Chicago - Análise de Mobilidade & Teste de Hipóteses**
 
-Objetivo: Análise de dados de transporte em Chicago com consultas SQL e testes de hipóteses estatísticas para avaliar o impacto do clima no tempo de viagem.
+**Objetivo**: Análise de dados de transporte em Chicago com consultas SQL e testes de hipóteses estatísticas para avaliar o impacto do clima no tempo de viagem.
 
-Tecnologias: Python, SQL, SciPy (Teste T de Student), Pandas.
+**Tecnologias**: Python, SQL, SciPy (Teste T de Student), Pandas.
 
 **Link:** https://github.com/derikpetiz/Zuber-Chicago
 
@@ -81,9 +91,9 @@ Tecnologias: Python, SQL, SciPy (Teste T de Student), Pandas.
 
 🎵 **Se Liga na Música - Análise de Padrões de Streaming**
 
-Objetivo: Validação de hipóteses sobre preferências e comportamento de usuários em plataformas de música entre diferentes cidades.
+**Objetivo**: Validação de hipóteses sobre preferências e comportamento de usuários em plataformas de música entre diferentes cidades.
 
-Tecnologias: Python, Pandas, Estatística Descritiva, Teste de Hipóteses.
+**Tecnologias**: Python, Pandas, Estatística Descritiva, Teste de Hipóteses.
 
 **Link:** https://github.com/derikpetiz/Se-liga-na-musica
 
