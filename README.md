@@ -17,7 +17,7 @@ Especialista em transformar dados complexos em soluções estratégicas de negó
 
 📌 **Projetos em Destaque**
 
-### 📱 [Análise Preditiva e Classificação de Planos Telecom — Megaline](https://github.com/derikpetiz/Analise_de_Planos_Megaline)
+📱 **Análise Preditiva e Classificação de Planos Telecom — Megaline**
 
 * **Objetivo:** Desenvolver e comparar modelos de machine learning supervisionados para classificar o comportamento de consumo mensal de clientes de telecomunicações (chamadas, minutos, mensagens e dados) e recomendar a migração ideal entre os planos **Smart** e **Ultra**, alcançando **80.87% de acurácia** no conjunto de teste.
 * **Tecnologias:** `Python`, `Scikit-Learn` (`RandomForestClassifier`, `DecisionTreeClassifier`, `LogisticRegression`), `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`.
