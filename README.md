@@ -21,7 +21,7 @@ Especialista em transformar dados complexos em soluções estratégicas de negó
 
 * **Objetivo:** Desenvolver e comparar modelos de machine learning supervisionados para classificar o comportamento de consumo mensal de clientes de telecomunicações (chamadas, minutos, mensagens e dados) e recomendar a migração ideal entre os planos **Smart** e **Ultra**, alcançando **80.87% de acurácia** no conjunto de teste.
 * **Tecnologias:** `Python`, `Scikit-Learn` (`RandomForestClassifier`, `DecisionTreeClassifier`, `LogisticRegression`), `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`.
-* **Repositório:** [github.com/derikpetiz/Analise_de_Planos_Megaline](https://github.com/derikpetiz/Analise_de_Planos_Megaline)
+* **Link:** [github.com/derikpetiz/Analise_de_Planos_Megaline](https://github.com/derikpetiz/Analise_de_Planos_Megaline)
 
 ---
 
