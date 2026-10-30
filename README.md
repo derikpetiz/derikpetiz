@@ -26,6 +26,7 @@ Especialista em transformar dados complexos em soluções estratégicas de negó
 **Tecnologias:** `Python`, `Streamlit`, `Pandas`, `NumPy`, `SciPy` (Estatística Inferencial), `Plotly`, `PyArrow` (Parquet).
 
 **Link:** https://github.com/derikpetiz/eleicoes-tse-app
+
 **App Online**: https://eleicoes-tse-app-ahfddze4y2hfd9dbs4h8pq.streamlit.app/
 
 ---
