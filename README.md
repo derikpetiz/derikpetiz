@@ -17,6 +17,19 @@ Especialista em transformar dados complexos em soluções estratégicas de negó
 
 📌 **Projetos em Destaque**
 
+---
+
+🗳️ **Auditoria Eleitoral & Análise Estatística TSE — Econometria 1T vs 2T**
+
+**Objetivo:** Desenvolvimento de uma aplicação web interativa para auditoria e simulação de microdados do TSE (1º e 2º Turnos) em todos os estados do Brasil, aplicando testes de conformidade estocástica (Lei de Benford do 2º dígito), detecção de outliers ($Z\text{-Score} > 4.0$), análise de voto cruzado e impacto operacional de liberações sem biometria e prorrogações de horário.
+
+**Tecnologias:** `Python`, `Streamlit`, `Pandas`, `NumPy`, `SciPy` (Estatística Inferencial), `Plotly`, `PyArrow` (Parquet).
+
+**Link:** https://github.com/derikpetiz/eleicoes-tse-app
+**App Online**: https://eleicoes-tse-app-ahfddze4y2hfd9dbs4h8pq.streamlit.app/
+
+---
+
 📱 **Análise Preditiva e Classificação de Planos Telecom — Megaline**
 
 **Objetivo:** Desenvolver e comparar modelos de machine learning supervisionados para classificar o comportamento de consumo mensal de clientes de telecomunicações (chamadas, minutos, mensagens e dados) e recomendar a migração ideal entre os planos **Smart** e **Ultra**, alcançando **80.87% de acurácia** no conjunto de teste.
