@@ -64,7 +64,7 @@
 🛢️ **Otimização de Margem de Lucro — Seleção de Poços de Petróleo OilyGiant**
 * **Objetivo:** Identificar a região com maior potencial de retorno financeiro para o desenvolvimento de 200 novos poços de petróleo sob um orçamento de US$ 100M. O projeto utilizou modelos de Regressão Linear para seleção cirúrgica de poços e simulação estocástica por Bootstrapping (1.000 reamostragens) para validação estatística de risco, aprovando a Região 1 como a única a cumprir o critério de governança (< 2,5% de risco de prejuízo) com um lucro médio previsto de US$ 4,54M.
 * **Tecnologias:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-* **Link:** [github.com/derikpetiz/Projeto_Otimizacao_Margem_Lucro_OilyGiant](https://github.com/derikpetiz/Projeto_Otimizacao_Margem_Lucro_OilyGiant)
+* **Link:** [github.com/derikpetiz/OilyGiant_Location_Optimization](https://github.com/derikpetiz/OilyGiant_Location_Optimization)
 
 ---
 
