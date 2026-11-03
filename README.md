@@ -168,7 +168,7 @@
 <div align="center">
 
 <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=derikpetiz&theme=tokyonight" alt="Estatísticas do GitHub" />
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/top-languages?username=derikpetiz&theme=tokyonight" alt="Linguagens mais utilizadas" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=derikpetiz&theme=tokyonight" alt="Linguagens por repositório" />
 
 </div>
 
