@@ -17,6 +17,14 @@ Especialista em transformar dados complexos em soluções estratégicas de negó
 
 📌 **Projetos em Destaque**
 
+### 🛢️ [Projeto de Otimização de Margem de Lucro — OilyGiant](https://github.com/derikpetiz/Projeto_Otimizacao_Margem_Lucro_OilyGiant)
+* **Objetivo de Negócio:** Mapear e selecionar a região com maior potencial de retorno financeiro para o desenvolvimento de 200 novos poços de petróleo, sob um orçamento de US$ 100M e com limite rígido de risco de prejuízo inferior a 2,5%.
+* **Técnicas & Ferramentas:** Python, Pandas, Scikit-Learn (Regressão Linear, StandardScaler) e Amostragem por Bootstrapping (1.000 reamostragens).
+* **Principais Resultados:** 
+  * Identificação do Ponto de Equilíbrio (Break-Even) populacional de **111,11 mil barris/poço**.
+  * Demonstração de que a **Regregão Linear cirúrgica (RMSE ~0,89)** na Região 1 compensa médias brutas menores, garantindo lucro médio previsto de **US$ 4,54M**.
+  * Validação estatística via Bootstrap aprovando a **Região 1** como a única viável, registrando apenas **2,30% de risco de prejuízo** (vs. >6% nas demais) e limite inferior de confiança 100% positivo (lucro mínimo garantido de US$ 242k).
+
 ---
 
 🗳️ **Auditoria Eleitoral & Análise Estatística TSE — Econometria 1T vs 2T**
