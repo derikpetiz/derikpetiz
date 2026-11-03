@@ -23,7 +23,7 @@ Especialista em transformar dados complexos em soluções estratégicas de negó
 
 **Tecnologias:** `Python`, `Scikit-Learn` (`LinearRegression`, `StandardScaler`), `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`.
 
-**Link:** https://github.com/derikpetiz/Projeto_Otimizacao_Margem_Lucro_OilyGiant
+**Link:** [https://github.com/derikpetiz/Projeto_Otimizacao_Margem_Lucro_OilyGiant](https://github.com/derikpetiz/OilyGiant_Location_Optimization)
 
 ---
 
