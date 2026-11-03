@@ -100,8 +100,8 @@
 🗳️ **Eleições 2026 — Plataforma Preditiva & Multimétodo Eleitoral**
 * **Objetivo:** Desenvolvimento de ecossistema analítico para monitoramento e simulação das eleições municipais e estaduais em 100% das unidades da federação, integrando múltiplas metodologias amostragem (Pesquisa Painel, Pesquisa Mista, Modelagem Preditiva Monte Carlo e Simulation com microdados de pesquisas de intenção de voto registradas no TSE).
 * **Tecnologias:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
-* **Link:** [github.com/derikpetiz/eleicoes-2026-app](https://github.com/derikpetiz/eleicoes-2026-app)
-* **App Online:** [Streamlit Cloud](https://eleicoes-2026-app.streamlit.app/)
+* **Link:** [github.com/derikpetiz/previsao_eleicao_2026_IA](https://github.com/derikpetiz/previsao_eleicao_2026_IA)
+* **App Online:** [previsaoeleicao2026ia.streamlit.app](https://previsaoeleicao2026ia-mezbbja6cmagvms6otzebg.streamlit.app/)
 
 ---
 
