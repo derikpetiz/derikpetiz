@@ -160,8 +160,8 @@
 
 <div align="center">
 
-![Derik Petiz GitHub Stats](https://github-readme-stats.vercel.app/api?username=derikpetiz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
-![Linguagens Mais Utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=derikpetiz&layout=compact&theme=tokyonight&hide=html,css)
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=derikpetiz&show_icons=true&theme=tokyonight&count_private=true" alt="Estatísticas do GitHub" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=derikpetiz&layout=compact&theme=tokyonight&hide=html,css" alt="Linguagens mais utilizadas" />
 
 </div>
 
