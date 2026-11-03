@@ -17,14 +17,13 @@ Especialista em transformar dados complexos em soluções estratégicas de negó
 
 📌 **Projetos em Destaque**
 
-🛢️ **[Projeto_Otimizacao_Margem_Lucro_OilyGiant](https://github.com/derikpetiz/Projeto_Otimizacao_Margem_Lucro_OilyGiant)**
+🛢️ **Otimização de Margem de Lucro — Seleção de Poços de Petróleo OilyGiant**
 
-- **Objetivo do Projeto:** Selecionar a melhor região para o desenvolvimento de 200 novos poços de petróleo para a empresa OilyGiant, maximizando a margem de lucro sob um orçamento de US$ 100M e respeitando o limite de risco de prejuízo inferior a 2,5%.
-- **Tecnologias Utilizadas:** Python, Pandas, NumPy, Scikit-Learn (LinearRegression, StandardScaler) e Bootstrapping (1.000 reamostragens).
-- **Principais Insights:**
-  - Determinação do Ponto de Equilíbrio (*Break-Even*) populacional em **111,11 mil barris/poço**.
-  - A **Regressão Linear com RMSE de ~0,89** na Região 1 demonstrou alta precisão preditiva, permitindo filtrar cirurgicamente os poços mais rentáveis e alcançando lucro médio de **US$ 4,54M**.
-  - A validação estatística via **Bootstrap** aprovou a **Região 1** como a única viável (risco de prejuízo de **2,30%** vs. >6% nas demais), garantindo limite inferior de confiança de 95% positivo (+US$ 242k).
+**Objetivo:** Identificar a região com maior potencial de retorno financeiro para o desenvolvimento de 200 novos poços de petróleo sob um orçamento de US$ 100M. O projeto utilizou modelos de Regressão Linear para seleção cirúrgica de poços e simulação estocástica por Bootstrapping (1.000 reamostragens) para validação estatística de risco, aprovando a Região 1 como a única a cumprir o critério de governança (< 2,5% de risco de prejuízo) com um lucro médio previsto de US$ 4,54M.
+
+**Tecnologias:** `Python`, `Scikit-Learn` (`LinearRegression`, `StandardScaler`), `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`.
+
+**Link:** https://github.com/derikpetiz/Projeto_Otimizacao_Margem_Lucro_OilyGiant
 
 ---
 
