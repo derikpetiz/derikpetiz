@@ -72,7 +72,7 @@
 * **Objetivo:** Desenvolvimento de uma aplicação web interativa para auditoria e simulação de microdados do TSE (1º e 2º Turnos) em todos os estados do Brasil, aplicando testes de conformidade estocástica (Lei de Benford do 2º dígito), detecção de outliers (Z-Score > 4.0), análise de voto cruzado e impacto operacional de liberações sem biometria e prorrogações de horário.
 * **Tecnologias:** ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
 * **Link:** [github.com/derikpetiz/eleicoes-tse-app](https://github.com/derikpetiz/eleicoes-tse-app)
-* **App Online:** [eleicoes-tse-app.streamlit.app](https://eleicoes-tse-app-ahfdze4y2hfd9dbs4h8pq.streamlit.app/)
+* **App Online:** [eleicoes-tse-app.streamlit.app](https://eleicoes-tse-app-ahfddze4y2hfd9dbs4h8pq.streamlit.app/)
 
 ---
 
