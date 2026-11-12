@@ -61,6 +61,14 @@
 
 ## 🚀 Projetos em Destaque
 
+**🏦 Previsão de Churn de Clientes — Beta Bank**
+
+* **Objetivo:** Desenvolver uma solução preditiva de aprendizado de máquina supervisionado para antecipar a evasão de clientes (*churn*) e direcionar ações preventivas de retenção. O projeto aplicou pré-processamento sem vazamento de dados (*data leakage*), comparou três abordagens de tratamento de desequilíbrio de classes (`class_weight='balanced'`, *Upsampling* e *Downsampling*) e otimizou um modelo de Floresta Aleatória (*Random Forest*), alcançando **$F_1$-score de 0,6269** (superando a meta mínima de 0,59), **AUC-ROC de 0,8598** e **67% de recall** na identificação proativa de clientes propensos ao cancelamento.
+* **Tecnologias:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat&logo=python&logoColor=white)
+* **Link:** [github.com/derikpetiz/Analise_de_Evasao_Beta_Bank](https://github.com/derikpetiz/Analise_de_Evasao_Beta_Bank)
+
+---
+
 🛢️ **Otimização de Margem de Lucro — Seleção de Poços de Petróleo OilyGiant**
 * **Objetivo:** Identificar a região com maior potencial de retorno financeiro para o desenvolvimento de 200 novos poços de petróleo sob um orçamento de US$ 100M. O projeto utilizou modelos de Regressão Linear para seleção cirúrgica de poços e simulação estocástica por Bootstrapping (1.000 reamostragens) para validação estatística de risco, aprovando a Região 1 como a única a cumprir o critério de governança (< 2,5% de risco de prejuízo) com um lucro médio previsto de US$ 4,54M.
 * **Tecnologias:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
